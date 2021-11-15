@@ -5,7 +5,7 @@ isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 nltk==3.4.5
-pip==20.0.2
+pip==21.1
 pylint==2.4.4
 setuptools==45.2.0.post20200210
 six==1.14.0
